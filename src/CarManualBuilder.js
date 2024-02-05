@@ -1,4 +1,4 @@
-const Manual= require('./Manual');
+import Manual from './Manual';
 const Builder= require('./Builder');
 
 class CarManualBuilder extends Builder {

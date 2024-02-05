@@ -1,4 +1,4 @@
-const Car= require('./Car');
+import Car from './Car';
 const Builder= require('./Builder');
 
 class CarBuilder extends Builder {

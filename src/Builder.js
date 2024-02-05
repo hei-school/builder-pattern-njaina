@@ -1,4 +1,4 @@
-export default class Builder {
+class Builder {
     reset() {}
   
     setSeats(number) {}
@@ -11,3 +11,5 @@ export default class Builder {
   
     getProduct() {}
   }
+
+  module.exports = Builder;
