@@ -1,4 +1,4 @@
-export class Builder {
+export default class Builder {
     reset() {}
   
     setSeats(number) {}
@@ -11,4 +11,3 @@ export class Builder {
   
     getProduct() {}
   }
-  

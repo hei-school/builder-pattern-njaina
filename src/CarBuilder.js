@@ -1,5 +1,5 @@
-import Car from './Car';
-import Builder from 'Builder';
+const Car= require('./Car');
+const Builder= require('./Builder');
 
 class CarBuilder extends Builder {
   constructor() {

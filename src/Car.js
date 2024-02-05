@@ -1,4 +1,4 @@
-export class Car {
+export default class Car {
     constructor() {
       this.seats = 0;
       this.engine = "";

@@ -1,0 +1,26 @@
+{
+  "name": "creationalpattern",
+  "version": "1.0.0",
+  "description": "Creational Pattern application with js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "jest --transformIgnorePatterns 'node_modules/(?!(module-to-ignore)/)'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hei-school/builder-pattern-njaina.git"
+  },
+  "author": "njaina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hei-school/builder-pattern-njaina/issues"
+  },
+  "homepage": "https://github.com/hei-school/builder-pattern-njaina#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}

@@ -1,4 +1,4 @@
-export class Manual {
+export default class Manual {
     constructor() {
       this.content = "";
     }

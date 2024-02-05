@@ -1,5 +1,5 @@
-import Manual from './Manual';
-import Builder from './Builder';
+const Manual= require('./Manual');
+const Builder= require('./Builder');
 
 class CarManualBuilder extends Builder {
   constructor() {
