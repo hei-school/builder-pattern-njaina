@@ -34,3 +34,5 @@ Some common use cases of the Builder pattern include constructing configuration 
 ``git clone https://github.com/hei-school/builder-pattern-njaina``
 ### Run the app
 ``npm start``
+### Test the app
+``npm run test``
